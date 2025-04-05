@@ -18,7 +18,7 @@ Auto::Auto(string color, string tipo, string placa)
 
 Auto::~Auto()
 {
-    //destructo
+    //destructor
 }
 
 void Auto::pedir_datos()
