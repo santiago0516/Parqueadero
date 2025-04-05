@@ -11,7 +11,7 @@ Parqueadero::Parqueadero()
   Auto a2;
   Auto a3;
   Auto a4;
-  Auto a5;
+  Auto a5; //
     
 }
 
